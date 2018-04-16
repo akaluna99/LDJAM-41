@@ -31,6 +31,14 @@
     },
     "resources": [
         {
+            "Key": "0f156a6b-0a9a-4aae-a6cd-52522733e6d7",
+            "Value": {
+                "id": "81898c43-fb69-4e96-821c-67e467c20784",
+                "resourcePath": "objects\\obj_player_2_sera_basura\\obj_player_2_sera_basura.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "220a5bd5-6ee8-4b1e-96ed-c77891445f32",
             "Value": {
                 "id": "09dbc42f-d33f-4e57-a70c-42e7441da480",
