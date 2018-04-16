@@ -159,6 +159,14 @@
             }
         },
         {
+            "Key": "aa997988-aacf-4583-b59f-c85fc9adc7d0",
+            "Value": {
+                "id": "54619df6-689c-482a-8de9-788a9e266eea",
+                "resourcePath": "objects\\obj_camin\\obj_camin.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "ad9768eb-444f-488b-849a-6b276075b628",
             "Value": {
                 "id": "98ce242e-ce6e-468e-9631-81d99810c61f",
