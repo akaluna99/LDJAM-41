@@ -207,6 +207,14 @@
             }
         },
         {
+            "Key": "d545277d-db0a-4b05-9ddb-dbbeb25b710f",
+            "Value": {
+                "id": "b16bcaac-8e0d-4a16-b956-1041a16fa616",
+                "resourcePath": "objects\\obj_mira_aqui_subnormal\\obj_mira_aqui_subnormal.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "e42bf5cc-3f46-4d67-a6d0-a4885a11ac3f",
             "Value": {
                 "id": "1c698d76-543c-4564-a173-83882a1b6315",
