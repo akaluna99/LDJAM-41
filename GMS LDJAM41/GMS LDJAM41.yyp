@@ -31,30 +31,7 @@
     },
     "resources": [
         {
-            "Key": "018b7cb1-edb5-4549-98a7-26cb7cfb70c6",
-            "Value": {
-                "id": "ad3ec016-a921-46f7-a366-ef72bb275951",
-                "resourcePath": "objects\\obj_player_3\\obj_player_3.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
-            "Key": "0f156a6b-0a9a-4aae-a6cd-52522733e6d7",
-            "Value": {
-                "id": "81898c43-fb69-4e96-821c-67e467c20784",
-                "resourcePath": "objects\\obj_player_2_sera_basura\\obj_player_2_sera_basura.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
-            "Key": "11f95e66-1c2e-46fb-a5dc-7c051297e9f3",
-            "Value": {
-                "id": "53c42014-6354-4a4b-ad54-fb8392954e28",
-                "resourcePath": "views\\11f95e66-1c2e-46fb-a5dc-7c051297e9f3.yy",
-                "resourceType": "GMFolder"
-            }
-        },
-        {
+
             "Key": "220a5bd5-6ee8-4b1e-96ed-c77891445f32",
             "Value": {
                 "id": "09dbc42f-d33f-4e57-a70c-42e7441da480",
@@ -135,6 +112,14 @@
             }
         },
         {
+            "Key": "761c560b-5acb-4dd6-b932-18c0da0e72b1",
+            "Value": {
+                "id": "57d03449-9fd5-4563-a3d6-072cd3eb461d",
+                "resourcePath": "views\\761c560b-5acb-4dd6-b932-18c0da0e72b1.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "7e093a2a-e51c-4a1e-9a53-f9080d38730b",
             "Value": {
                 "id": "6ac0feb8-10a7-42df-b7e7-80fe9222f72f",
@@ -164,14 +149,6 @@
                 "id": "cf642e5f-ea2b-4aa8-b0b0-78806532c903",
                 "resourcePath": "options\\linux\\options_linux.yy",
                 "resourceType": "GMLinuxOptions"
-            }
-        },
-        {
-            "Key": "aa997988-aacf-4583-b59f-c85fc9adc7d0",
-            "Value": {
-                "id": "54619df6-689c-482a-8de9-788a9e266eea",
-                "resourcePath": "objects\\obj_camin\\obj_camin.yy",
-                "resourceType": "GMObject"
             }
         },
         {
@@ -220,14 +197,6 @@
                 "id": "a7359e96-88b7-4e29-94cc-e0acc666d0f5",
                 "resourcePath": "views\\d4af7518-315c-4f7a-a029-257193691303.yy",
                 "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "d545277d-db0a-4b05-9ddb-dbbeb25b710f",
-            "Value": {
-                "id": "b16bcaac-8e0d-4a16-b956-1041a16fa616",
-                "resourcePath": "objects\\obj_mira_aqui_subnormal\\obj_mira_aqui_subnormal.yy",
-                "resourceType": "GMObject"
             }
         },
         {
